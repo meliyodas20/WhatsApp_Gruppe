@@ -1,0 +1,7 @@
+echo "# WhatsApp_Gruppe" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/meliyodas20/WhatsApp_Gruppe.git
+git push -u origin main
